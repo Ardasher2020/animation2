@@ -1,13 +1,13 @@
-.mainAnim1 {
+.mainCircle {
     background-repeat: no-repeat;
     height: 73%;
 }
-.mainAnim1 {
+.mainCircle {
     background-repeat: no-repeat;
     height: 73%;
     background-size: cover;
 }
-.FooterAnim1 {
+.FooterCircle {
     display: flex;
     justify-content: space-around;
     height: 100px;
