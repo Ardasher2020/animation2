@@ -1,13 +1,13 @@
-.mainAnim2 {
+.mainSquare {
     background-repeat: no-repeat;
     height: 73%;
 }
-.mainAnim2 {
+.mainSquare{
     background-repeat: no-repeat;
     height: 73%;
     background-size: cover;
 }
-.FooterAnim2 {
+.FooterSquare{
     display: flex;
     justify-content: space-around;
     height: 100px;
