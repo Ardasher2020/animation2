@@ -10,3 +10,12 @@ alert(" Привет всем")
 let result = sum2+sum2 
 console.log("результат:",result);
 alert(" у нас сегодня было много уроков ")
+function message() {
+    alert("Добро пожаловать в мой сайт");
+}
+function func() {
+    alert("Я СОЗДАЛ СВОЮ ПЕРВУЮ ФУНКЦИЮ");
+}
+function func2() {
+    alert("I created my first link")
+}
