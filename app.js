@@ -6,6 +6,7 @@ let sum4 =15;
 let sum5 =59;
 console.log(sum3+sum4+sum5);
 console.log("результат:",sum2+sum2);
-alert("привет всем")
+alert(" Привет всем")
 let result = sum2+sum2 
 console.log("результат:",result);
+alert(" у нас сегодня было много уроков ")
